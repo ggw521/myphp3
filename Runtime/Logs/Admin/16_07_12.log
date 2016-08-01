@@ -1,0 +1,10 @@
+[ 2016-07-12T23:50:48+08:00 ] 127.0.0.1 /index.php/Admin/index/home.html
+ERR: 非法操作:home
+
+[ 2016-07-12T23:51:00+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `tp_dept` WHERE ( id !=  ) 
+
+[ 2016-07-12T23:51:47+08:00 ] 127.0.0.1 /index.php/Admin/index/home.html
+ERR: 非法操作:home
+

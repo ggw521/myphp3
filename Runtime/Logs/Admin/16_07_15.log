@@ -1,0 +1,46 @@
+[ 2016-07-15T16:58:00+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_dept` WHERE ( id != undefined ) 
+
+[ 2016-07-15T16:58:15+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_dept` WHERE ( id != undefined ) 
+
+[ 2016-07-15T16:58:30+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_dept` WHERE ( id != undefined ) 
+
+[ 2016-07-15T16:59:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_dept` WHERE ( id != undefined ) 
+
+[ 2016-07-15T17:22:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:22:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2016-07-15T17:22:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:32:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:32:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:33:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:34:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:34:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-07-15T17:36:03+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2016-07-15T17:51:29+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+

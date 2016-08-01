@@ -1,0 +1,30 @@
+[ 2016-07-17T10:56:35+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-07-17T10:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 模板不存在:G:/mytpkj/Admin/View/Doc/showList.html
+
+[ 2016-07-17T11:41:31+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/ids/6
+ERR: 非法操作:del
+
+[ 2016-07-17T13:13:29+08:00 ] 127.0.0.1 /index.php/Admin/Doc/editOk.html
+ERR: 非法操作:editOk
+
+[ 2016-07-17T13:24:50+08:00 ] 127.0.0.1 /index.php/Admin/edit/id.html
+ERR: 无法加载控制器:Edit
+
+[ 2016-07-17T13:25:50+08:00 ] 127.0.0.1 /index.php/Admin/edit/id.html
+ERR: 无法加载控制器:Edit
+
+[ 2016-07-17T14:14:18+08:00 ] 127.0.0.1 /index.php/Admin/Doc/download/id/7
+ERR: 非法操作:download
+
+[ 2016-07-17T14:14:28+08:00 ] 127.0.0.1 /index.php/Admin/Doc/download/id/7
+ERR: 非法操作:download
+
+[ 2016-07-17T14:15:17+08:00 ] 127.0.0.1 /index.php/Admin/Doc/download/id/7
+ERR: 非法操作:download
+
+[ 2016-07-17T14:24:30+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/1
+ERR: 非法操作:getContent
+

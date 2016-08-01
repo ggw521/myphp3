@@ -1,0 +1,34 @@
+<?php
+/**
+ * 
+ * @authors	九炼 (cherish@cherish.pw)
+ * @wat 传智播客教育集团 PHP学院
+ * @date    2016-07-13 11:34:41
+ * @url 	http://dwz.cn/920815
+ * @desc	应用级别函数库文件...
+ *
+ * ━━━━━━神兽出没━━━━━━
+ * 　　   ┏┓　 ┏┓
+ * 　┏━━━━┛┻━━━┛┻━━━┓
+ * 　┃              ┃
+ * 　┃       ━　    ┃
+ * 　┃　  ┳┛ 　┗┳   ┃
+ * 　┃              ┃
+ * 　┃       ┻　    ┃
+ * 　┃              ┃
+ * 　┗━━━┓      ┏━━━┛ Code is far away from bugs with the animal protecting.
+ *       ┃      ┃     神兽保佑,代码无bug。
+ *       ┃      ┃
+ *       ┃      ┗━━━┓
+ *       ┃      　　┣┓
+ *       ┃      　　┏┛
+ *       ┗━┓┓┏━━┳┓┏━┛
+ *     　  ┃┫┫　┃┫┫
+ *     　  ┗┻┛　┗┻┛
+ *
+ * ━━━━━━感觉萌萌哒━━━━━━
+ */
+
+function gbk2utf8(){
+	echo 'gbk2utf8';
+}

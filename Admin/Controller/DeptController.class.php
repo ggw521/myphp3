@@ -13,7 +13,7 @@ class DeptController extends Controller
 		$this->assign('data',$data);
 	            $this->display();
 	}
-	#addOk方法ff
+	#addOk方法ffh
 	public function addOk(){
 	    #接受数据
 	    $post = I('post.');
